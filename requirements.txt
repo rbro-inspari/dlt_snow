@@ -1,0 +1,4 @@
+dlt[duckdb]>=1.5.0
+dlt[snowflake]
+dlt[cli]
+streamlit
